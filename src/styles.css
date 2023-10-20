@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+.container {
+    max-width: 1920px;
+    width: 100%;
+
+        }
+}
+h1 {
+    text-align: left;
+    justify-content: left;
+    font-size: larger;
+    background-color: transparent;
+}
+.nav-barra {
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    z-index: 0;
+     
+}
+.imgfigma {
+        float: right;
+        border: transparent thin solid;
+        padding: 30px;
+        margin: 20px 300px 70px 40px;
+        max-width: 400px;
+}
